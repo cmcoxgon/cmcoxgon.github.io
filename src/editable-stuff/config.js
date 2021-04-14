@@ -135,7 +135,7 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: 'Software Engineer',// Here Add Company Name
+      role: 'Landscape Architect',// Here Add Company Name
       companylogo: require('../assets/img/dell.png'),
       date: 'June 2018 – Present',
     },
